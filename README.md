@@ -17,7 +17,7 @@ The device when it is installed in the lobster pond:
 **Step How to Use Water Quality Monitoring System:**
 1. Upload file getSensorData.ino to Arduino board using arduino IDE. This file is used to get sensor data. 
 2. After that, upload file sendSensorData.ino to ESP8266 board using arduino IDE. This file is used to send sensor data to database.
-3. Open the website: http://rsbmonitoring.epizy.com/. You must register your account first before using the website. 
+3. Open the website: http://rsbmonitoring.epizy.com/ (you can see the code of the website in folder WebMonitoring). You must register your account first before using the website. 
 ![image](https://user-images.githubusercontent.com/50353456/159845243-59f92f92-0970-4969-a9bd-6067e5d6eaee.png)
 4. Click login and fill your username and password.
 ![image](https://user-images.githubusercontent.com/50353456/159845467-17327acc-f865-43cb-8523-3724eeb5262f.png)
